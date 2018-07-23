@@ -5,9 +5,9 @@ _The text prior to the data name is a clickable link._
 - **[Staff Application Status](https://github.com/zachdoug24/dbm-projects/blob/staff_app_sys/staffappstatus_cmd.js)** - `staffappstatus_cmd.js`    
     
 ## **Syntax**
-`staffappstatus` - Views the status of applications.
-`staffappstatus open` - Opens the ability to make applications.
-`staffappstatus closed` - Closes the applications and prevents more from being made.
+`staffappstatus` - Views the status of applications.    
+`staffappstatus open` - Opens the ability to make applications.    
+`staffappstatus closed` - Closes the applications and prevents more from being made.    
 `staffapp` - Starts the application process.
 
 
