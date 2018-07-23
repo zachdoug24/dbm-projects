@@ -19,6 +19,12 @@
       "name": "Find Channel"
     },
     {
+      "info": "19",
+      "storage": "1",
+      "varName2": "prefix",
+      "name": "Store Bot Client Info"
+    },
+    {
       "member": "1",
       "varName": "",
       "dataName": "VERIFICATION_CODE",
@@ -74,7 +80,7 @@
       "comparison": "0",
       "value": "1",
       "iftrue": "2",
-      "iftrueVal": "16",
+      "iftrueVal": "17",
       "iffalse": "0",
       "iffalseVal": "",
       "name": "Check Parameters"
@@ -94,7 +100,7 @@
     {
       "channel": "1",
       "varName": "",
-      "message": "Here is your code, `${tempVars(\"code\")}`.\n\nUse it in <#458799149136216075> by typing `s.verify ${tempVars(\"code\")}`.",
+      "message": "Here is your code, **`${tempVars(\"code\")}`**.\n\nUse it in ${tempVars(\"verifychannel\")} by typing `${tempVars(\"prefix\")}verify ${tempVars(\"code\")}`.",
       "storage": "0",
       "varName2": "",
       "name": "Send Message"
@@ -148,7 +154,7 @@
     {
       "channel": "1",
       "varName": "",
-      "message": "You are now a verified member of the server!",
+      "message": "You are now able to access more areas of the server.",
       "storage": "0",
       "varName2": "",
       "name": "Send Message"
