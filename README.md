@@ -3,18 +3,10 @@ This will be where I upload and keep track of various bits of Raw Data and proje
 
 ### Singular Raw Data Codes
 This will contain single bits of Raw Data.
-<details>
-    <summary>Click here to view the list.</summary>
-    <br>
-    <list>
-        <li><b><a href="https://github.com/zachdoug24/dbm-projects/tree/verify">Verify Command</a></b></li>
-    </list>
-    </details>
+
+* **[Verify Command](https://github.com/zachdoug24/dbm-projects/tree/verify)** - This allows a user to get a code issued to them that they must verify in the appropriate channel.
 
 ### Raw Data Packs
 The following links contain more than one command.
 
-* 
-* Test
-    
-
+* **[Advanced Application System](https://google.com/)** - This is my advanced ticket system for Discord Bot Maker, which allows a user to effectively use Support Tickets in their server.
