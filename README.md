@@ -9,4 +9,6 @@ This will contain single bits of Raw Data.
 ### Raw Data Packs
 The following links contain more than one command.
 
-* **[Advanced Application System](https://google.com/)** - This is my advanced ticket system for Discord Bot Maker, which allows a user to effectively use Support Tickets in their server.
+* **[Advanced Ticket System](https://github.com/zachdoug24/dbm-projects/tree/adv_ticket_sys)** - This is my advanced ticket system for Discord Bot Maker, which allows a user to effectively use Support Tickets in their server.
+* **[Staff Application System](https://github.com/zachdoug24/dbm-projects/tree/staff_app_sys)** - A staff application system for servers who want to be able to sort through potential applications easily.
+* **[Information Command Pack](https://github.com/zachdoug24/dbm-projects/tree/info_cmds_pack)** - Various commands to view information of server, bot, user, etc.
