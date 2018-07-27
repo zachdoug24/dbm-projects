@@ -26,4 +26,4 @@ _The text prior to the data name is a clickable link._
     3. Edit Call Command/Event to the Event of your new Module.
 
 ## **Disclaimer** 
-If you have issues with the code, **_do not ping me right off the bat or DM me._** It's nothing but an annoyance. Just ask in [the Support Channel for the Raw Data Server](https://discordapp.com/channels/379372685182107669/388055603320324116/) and someone will assist you. You are also capable of leaving a comment here and I'll get back to you.
+If you have issues with the code, **_do not ping me right off the bat or DM me._** It's nothing but an annoyance. Just ask in [the Support Channel for the Raw Data Server](https://discordapp.com/channels/379372685182107669/388055603320324116/) and someone will assist you. You are also capable of leaving a comment here and I'll get back to you. You can also create an Issue with the Project `Help Module System`.
