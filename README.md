@@ -12,6 +12,10 @@ _The text prior to the data name is a clickable link._
 ## **Notes**    
 
 1. This requires [DBM 1.8.8 Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods/tree/master), [Await Response Call Action Mod](https://discordapp.com/channels/374961173524643843/382056590892728331/454449492972929024) and [the Beta Client of DBM](https://discordapp.com/channels/374961173524643843/375701228111527937/461267260234006531).
+2. You either have to run the Support Setup command, or create the following:
+    * Role: `Support Team`
+    * Category: `Tickets`
+    * Text-Channel: `ticket-logs` underneath the Tickets category.
 
 ## **Syntax**
 `new <reason>` or `ticket <reason>` - Creates a new ticket for the user.    
