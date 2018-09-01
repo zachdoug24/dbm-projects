@@ -5,6 +5,12 @@
   "_id": "QLAIx",
   "actions": [
     {
+      "info": "19",
+      "storage": "1",
+      "varName2": "botprefix",
+      "name": "Store Bot Client Info"
+    },
+    {
       "message": "1",
       "varName": "message",
       "info": "4",
@@ -70,7 +76,7 @@
       "storage": "1",
       "varName": "messagetext",
       "comparison": "1",
-      "value": "'verify'",
+      "value": "'tempVars(\"botprefix\")verify'",
       "iftrue": "1",
       "iftrueVal": "",
       "iffalse": "0",
