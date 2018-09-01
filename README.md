@@ -2,6 +2,7 @@
 _The text prior to the data name is a clickable link._
 
 - **[Verify](https://github.com/zachdoug24/dbm-projects/blob/verify/verify_cmd.js)** - `verify_cmd.js`    
+- **[Check Verify Channel](https://github.com/zachdoug24/dbm-projects/blob/verify/check_verify_event.js)** - `check_verify_event.js`
     
 ## **Syntax**
 `verify` - This will issue the code to the user.    
@@ -11,8 +12,9 @@ _The text prior to the data name is a clickable link._
 
 1. This requires [DBM 1.8.8 Mods](https://github.com/Discord-Bot-Maker-Mods/DBM-Mods/tree/master), and [the Beta Client of DBM](https://discordapp.com/channels/374961173524643843/375701228111527937/461267260234006531).
 2. To expand upon it, please be sure you thoroughly understand what is going on within the code.
-3. Please remember to edit `Line #1` with the role name and `Line #2` with the verification channel.
+3. Please remember to edit `Line #1` with the role name and `Line #2` with the verification channel in `verify_cmd.js`.
 4. This will automatically delete the command message, so the channel will remain entirely clean from the command being spammed.
+5. Edit `Line #5` and `Line #6` with the appropriate information in `check_verify_event.js`.
 
 
 ## **Disclaimer** 
