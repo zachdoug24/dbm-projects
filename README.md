@@ -14,7 +14,7 @@ _The text prior to the data name is a clickable link._
 2. To expand upon it, please be sure you thoroughly understand what is going on within the code.
 3. Please remember to edit `Line #1` with the role name and `Line #2` with the verification channel in `verify_cmd.js`.
 4. This will automatically delete the command message, so the channel will remain entirely clean from the command being spammed.
-5. Edit `Line #5` and `Line #6` with the appropriate information in `check_verify_event.js`.
+5. Edit `Line #6` and `Line #7` with the appropriate information in `check_verify_event.js`.
 
 
 ## **Disclaimer** 
